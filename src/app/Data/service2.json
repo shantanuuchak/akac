@@ -6,12 +6,13 @@
     "desc": "Professional and efficient installation of new air conditioning units.",
     "img": "/assets/img/service_details_1.png",
     "Features":[
-        "Site Assessment",
-        "Unit Placement",
-        "Refrigerant Handling",
-        "Electrical Connections",
-        "Performance Testing",
-        "Warranty Activation"
+        "Thorough Site Evaluation & Load Calculation",
+        "Expert Unit Selection & Sizing",
+        "Precision Installation of Indoor & Outdoor Units",
+        "Safe Refrigerant Line Connection & Evacuation",
+        "Professional Electrical Wiring & Connection",
+        "Comprehensive Performance Testing & Optimization",
+        "Customer Education & System Operation Walkthrough"
     ]
   },
   {
@@ -21,12 +22,13 @@
     "desc": "Expert refilling of A/C gas to ensure optimal cooling performance.",    
     "img": "/assets/img/service_details_2.png",  
     "Features":[
-        "Leak Detection",
-        "Gas Pressure Check",
-        "Eco-Friendly Refrigerants",
-        "Performance Optimization",
-        "Safety Precautions",
-        "Refrigerant Recovery"
+        "Refrigerant Leak Detection & Repair",
+        "Precise Refrigerant Level Verification",
+        "Eco-Friendly Refrigerant Options",
+        "System Pressure Diagnosis & Adjustment",
+        "Thorough Performance Testing",
+        "Safety Inspection of System Components",
+        "Refrigerant Recovery & Safe Disposal"
     ]     
   },
     {
@@ -36,12 +38,13 @@
     "desc": "Regular maintenance services to keep your A/C running smoothly and efficiently.",    
     "img": "/assets/img/service_details_4.png",
     "Features":[
-        "Filter Cleaning/Replacement",
-        "Coil Cleaning",
-        "Drain Line Inspection",
-        "Electrical Checks",
-        "Thermostat Calibration",
-        "System Performance Evaluation"
+        "Comprehensive Air Filter Inspection & Replacement",
+        "Evaporator & Condenser Coil Cleaning",
+        "Condensate Drain Line Cleaning & Unclogging",
+        "Electrical Component Inspection & Tightening",
+        "Precise Thermostat Calibration & Adjustment",
+        "System Pressure Check & Performance Evaluation",
+        "Refrigerant Level Check and adjustment."
     ] 
   },
     {
@@ -51,12 +54,13 @@
     "desc": "Secure and professional relocation of your A/C units.",
     "img": "/assets/img/service_details_1.png",
     "Features":[
-        "Safe Disconnection",
-        "Secure Transport",
-        "Professional Reinstallation",
-        "System Testing",
-        "Refrigerant Handling",
-        "Location Assessment"
+        "Safe and Secure Disconnection of Indoor & Outdoor Units",
+        "Professional Refrigerant Evacuation & Containment",
+        "Secure Packaging & Transportation of all AC Components",
+        "Reinstallation at New Location with Precision and Care",
+        "Leak Testing Post-Reinstallation",
+        "Thorough System Testing & Performance Check",
+        "New Location Suitability Assessment"
     ]
   },
     {
@@ -66,12 +70,13 @@
     "desc": "Comprehensive servicing and repair for all types of jet pumps.",    
     "img": "/assets/img/service_details_2.png",
     "Features":[
-        "Leak Detection and Repair",
-        "Pressure Adjustment",
-        "Motor Efficiency Checks",
-        "Maintenance Services",
-        "New Pump Installations",
-        "System Performance Analysis"
+        "Comprehensive Leak Inspection & Repair",
+        "Precise Pressure Adjustment & Optimization",
+        "Motor Inspection & Efficiency Optimization",
+        "Impeller & Volute Inspection",
+        "Jet & Nozzle Inspection",
+        "Professional New Pump Installation & Setup",
+        "System Performance Testing & Calibration"
     ]
     },
   {
@@ -81,12 +86,13 @@
     "desc": "Comprehensive Break Down Service (BDS) for rapid diagnosis and resolution of A/C issues.",
     "img": "/assets/img/service_details_4.png",
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Rapid Response & On-Site Diagnostics",
+        "Comprehensive System Failure Analysis",
+        "Priority Repairs for Critical Components",
+        "Temporary Cooling Solutions (If Needed)",
+        "Transparent Cost Estimate for Repairs",
+        "Thorough Post-Repair System Testing",
+        "Preventive Maintenance Recommendations"
     ]  
   }   
 ]
