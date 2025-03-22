@@ -1,42 +1,44 @@
-import About from "./Components/Home/About";
-import Blog from "./Components/Home/Blog";
-import Choose from "./Components/Home/Choose";
-import Faq from "./Components/Home/Faq";
-import HomeSlider from "./Components/Home/HomeSlider";
-import Pricing from "./Components/Home/Pricing";
-import Process from "./Components/Home/Process";
-import Services from "./Components/Home/Services";
-import Team from "./Components/Home/Team";
-import Testimonial from "./Components/Home/Testimonial";
+import React from 'react';
+import HomeSlider2 from './Components/Home2/HomeSlider2';
+import About2 from './Components/About/About2';
+import Services2 from './Components/Home2/Services2';
+import Choose2 from './Components/Home2/Choose2';
+import Cta from './Components/Services/Cta';
+import Contact2 from './Components/Home2/Contact2';
+import Team from './Components/Home2/Team';
+import Project2 from './Components/Home2/Project2';
+import Testimonial3 from './Components/Home2/Testimonial3';
+import Blog2 from './Components/Home2/Blog2';
 
-export default function Home() {
-  return (
-    <main className="home-page">
-        <HomeSlider></HomeSlider>
-        <About
-                Img="/assets/img/about_img_1.png"
+const page = () => {
+    return (
+        <div className='home-page2'>
+            <HomeSlider2></HomeSlider2>
+            <About2 
+                Img="/assets/img/about_img_2.png"
                 TitleUp="About us"
-                Title="Where every breath feels fresh and cool"
-                Content="Prompt diagnosis and repair of any issues with your air conditioning unit your ensure optimal performance Inspection of ductwork for leaks or damage air followed by sealing to improve energy efficiency"
+                Title="Turning up the chill factor in your home or office"
+                Content="This involves setting up a new air conditioning system in your home or office. It's crucial to ensure that the unit is properly sized for the space and installed correctly for optimal efficiency"
                 FeatureList={[
-                    "AirFlow Optimization",
-                    "PureAir Quality Testing",
-                    "FreezeGuard Installation",
-                    "Cool Care Maintenance",
-                    "ClimateControl Checkup",
-                    "ChillOut Emergency Services"
+                    "Ventilation System Maintenance",
+                    "Indoor Air Quality Testing",
+                    "Cool Craft Custom Solutions"
                 ]}
-                NumberContent="Call any time for Freseir services"
-                Number="(+578) 587 89168"
-            ></About>
-            <Services></Services>
+                Experience="25+"
+                BioImg="/assets/img/avatar_1.png"                
+                BioName="Roberto Ramon"                
+                BioContent="Call any time for services"                
+            ></About2>
+            <Services2></Services2>
+            <Choose2></Choose2>
+            <Cta></Cta>
             <Team></Team>
-            <Choose></Choose>
-            <Pricing></Pricing>
-            <Testimonial></Testimonial>
-            <Faq></Faq>
-            <Process></Process>
-            <Blog></Blog>
-    </main>
-  );
-}
+            <Contact2></Contact2>
+            <Project2></Project2>
+            <Testimonial3></Testimonial3>
+            <Blog2></Blog2>
+        </div>
+    );
+};
+
+export default page;
