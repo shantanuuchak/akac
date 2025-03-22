@@ -1,20 +1,20 @@
 [
   {
-    "img": "/assets/img/avatar_1.png",  
-    "desc": "Air conditioning services encompass a range of maintenance, repair, installation, and consultation activities designed to ensure the efficient operation and longevity of air conditioning systems",  
-    "title": "Brooklyn Simmons",
-    "subTitle": "Sales Manager"
+    "img": "/assets/img/avatar_priya.jpg",
+    "desc": "We were having a real problem with our AC, especially with the summer heat. I called AKAC, and they were incredibly responsive. They came out the same day, quickly diagnosed the issue, and had it fixed in no time!  I highly recommend them.",
+    "title": "Priya Sharma",
+    "subTitle": "Homeowner, Delhi"
   },
   {
-    "img": "/assets/img/avatar_1.png",  
-    "desc": "Air conditioning services encompass a range of maintenance, repair, installation, and consultation activities designed to ensure the efficient operation and longevity of air conditioning systems",  
-    "title": "Brooklyn Simmons",
-    "subTitle": "Sales Manager"
+    "img": "/assets/img/avatar_patel.png",
+    "desc": "AKAC installed a new AC unit in our office, and I couldn't be happier with the service. The team was professional, efficient, and very knowledgeable. They helped us choose the right unit for our space, and the installation was seamless. Great job!",
+    "title": "Rajesh Patel",
+    "subTitle": "Office Manager, Mumbai"
   },
   {
-    "img": "/assets/img/avatar_1.png",  
-    "desc": "Air conditioning services encompass a range of maintenance, repair, installation, and consultation activities designed to ensure the efficient operation and longevity of air conditioning systems",  
-    "title": "Brooklyn Simmons",
-    "subTitle": "Sales Manager"
+    "img": "/assets/img/avatar_sneha.jpg",
+    "desc": "I've used AKAC for several years now for my AC maintenance. They are always punctual and do a thorough job. Their technicians are friendly and take the time to explain everything. It gives me peace of mind knowing my AC is in good hands.",
+    "title": "Sneha Kapoor",
+    "subTitle": "Business Owner, Bangalore"
   }
 ]

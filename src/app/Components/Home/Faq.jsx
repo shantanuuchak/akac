@@ -27,8 +27,8 @@ const Faq = () => {
     const FaqContent = {
       img1:'/assets/img/faq_img_1.jpg',
       img2:'/assets/img/faq_img_2.jpg',
-      Experience:'25+',
-      BestAward:'Best ArkdinAir Company',
+      Experience:'14+',
+      BestAward:'Best AKAC Services',
       Content:'Air conditioning system is best for your home Our FrostFree Consultation air a  service provides expert guidance tailored to your specific needs.'
     }
 
