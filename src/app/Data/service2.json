@@ -1,85 +1,85 @@
 [
   {
-    "icon": "/assets/img/icons/service_icon_7.svg",  
-    "SubTitle": "Air Filtration Solutions",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
-    "img": "/assets/img/service_details_1.png",  
+    "icon": "/assets/img/icons/service_icon_7.svg",
+    "SubTitle": "A/C Installation",
+    "title": "A/C Installation",
+    "desc": "Professional and efficient installation of new air conditioning units.",
+    "img": "/assets/img/service_details_1.png",
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Site Assessment",
+        "Unit Placement",
+        "Refrigerant Handling",
+        "Electrical Connections",
+        "Performance Testing",
+        "Warranty Activation"
     ]
   },
   {
-    "icon": "/assets/img/icons/service_icon_8.svg",  
-    "SubTitle": "Indoor Air Quality Testing",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "icon": "/assets/img/icons/service_icon_8.svg",
+    "SubTitle": "A/C Gas Refilling",
+    "title": "A/C Gas Refilling",
+    "desc": "Expert refilling of A/C gas to ensure optimal cooling performance.",    
     "img": "/assets/img/service_details_2.png",  
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Leak Detection",
+        "Gas Pressure Check",
+        "Eco-Friendly Refrigerants",
+        "Performance Optimization",
+        "Safety Precautions",
+        "Refrigerant Recovery"
     ]     
   },
-  {
-    "icon": "/assets/img/icons/service_icon_9.svg",  
-    "SubTitle": "Chill Guard Protection",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
-    "img": "/assets/img/service_details_4.png",  
+    {
+    "icon": "/assets/img/icons/service_icon_9.svg",
+    "SubTitle": "A/C Maintenance",
+    "title": "A/C Maintenance",
+    "desc": "Regular maintenance services to keep your A/C running smoothly and efficiently.",    
+    "img": "/assets/img/service_details_4.png",
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
+        "Filter Cleaning/Replacement",
+        "Coil Cleaning",
+        "Drain Line Inspection",
+        "Electrical Checks",
+        "Thermostat Calibration",
+        "System Performance Evaluation"
     ] 
   },
-  {
-    "icon": "/assets/img/icons/service_icon_10.svg",  
-    "SubTitle": "Air Filtration Solutions",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
-    "img": "/assets/img/service_details_1.png",  
+    {
+    "icon": "/assets/img/icons/service_icon_10.svg",
+    "SubTitle": "Safe A/C Shifting",
+    "title": "Safe A/C Shifting",
+    "desc": "Secure and professional relocation of your A/C units.",
+    "img": "/assets/img/service_details_1.png",
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
-    ]      
+        "Safe Disconnection",
+        "Secure Transport",
+        "Professional Reinstallation",
+        "System Testing",
+        "Refrigerant Handling",
+        "Location Assessment"
+    ]
   },
-  {
-    "icon": "/assets/img/icons/service_icon_8.svg",  
-    "SubTitle": "Indoor Air Quality Testing",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
-    "img": "/assets/img/service_details_2.png",  
+    {
+    "icon": "/assets/img/icons/service_icon_8.svg",
+    "SubTitle": "Jet Pump Service",
+    "title": "Jet Pump Service",
+    "desc": "Comprehensive servicing and repair for all types of jet pumps.",    
+    "img": "/assets/img/service_details_2.png",
     "Features":[
-        "AirFlow Optimization",
-        "AirFlow Optimization",
-        "FreezeGuard Installation",
-        "Cool Care Maintenance",
-        "ClimateControl Checkup",
-        "ChillOut Emergency Services"
-    ]     
-  },
+        "Leak Detection and Repair",
+        "Pressure Adjustment",
+        "Motor Efficiency Checks",
+        "Maintenance Services",
+        "New Pump Installations",
+        "System Performance Analysis"
+    ]
+    },
   {
-    "icon": "/assets/img/icons/service_icon_9.svg",  
-    "SubTitle": "Chill Guard Protection",
-    "title": "Reliable Cooling Exceptional Service",
-    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
-    "img": "/assets/img/service_details_4.png",  
+    "icon": "/assets/img/icons/service_icon_9.svg",
+    "SubTitle": "BDS",
+    "title": "BDS",
+    "desc": "Comprehensive Break Down Service (BDS) for rapid diagnosis and resolution of A/C issues.",
+    "img": "/assets/img/service_details_4.png",
     "Features":[
         "AirFlow Optimization",
         "AirFlow Optimization",
