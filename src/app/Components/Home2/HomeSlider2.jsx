@@ -13,9 +13,12 @@ const HomeSlider2 = () => {
       }, []);
 
       const MovingText = [
-        'Emergency Services ',
-        'Keep Outdoor Unit Clear',
-        'Filter Replacement',
+        'A/C installation ',
+        'A/C gas refilling',
+        'A/C maintainance',
+        'Safe A/C shifting',
+        'Jet pump servcie',
+        'BDS',
       ];     
 
       const settings = {
