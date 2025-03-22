@@ -11,7 +11,7 @@ const Contact = () => {
                     <div className="row cs_gap_y_50">
                         <div className="col-xxl-6 col-lg-7">
                             <h2 className="cs_fs_48 cs_semibold cs_mb_22">Contact Information</h2>
-                            <p className="cs_mb_30">Experience unparalleled comfort with AKAC's QuickCool AC Installation service. Our certified technicians ensure fast, efficient, and safe installation of your new air conditioning system, tailored to your specific needs. Trust AKAC for a seamless, cool experience from start to finish.</p>
+                            <p className="cs_mb_30">Experience unparalleled comfort with AKAC&apos;s QuickCool AC Installation service. Our certified technicians ensure fast, efficient, and safe installation of your new air conditioning system, tailored to your specific needs. Trust AKAC for a seamless, cool experience from start to finish.</p>
                             <div className="row cs_gap_y_30 cs_row_gap_30">
                                 <ContactCard
                                     img="/assets/img/icons/contact_icon_1.svg"
