@@ -7,12 +7,13 @@ import Image from "next/image";
 const Footer = () => {
 
     const Services = [
-        'Rapid Cool Installation',
-        'Air Flow Optimization',
-        'Rapid Drain Unclogging',
-        'Frost Guard Emergency',
-        'Breeze Balance Calibration',
-      ];
+      "A/C Installation",
+      "A/C Gas Refilling",
+      "A/C Maintenance",
+      "Safe A/C Shifting",
+      "Jet Pump Service",
+      "BDS"
+    ];
 
     const WorkingHours = [
         {day:'Thu - Fri', time:'9:00 AM - 7:00 PM'},
