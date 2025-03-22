@@ -70,8 +70,8 @@ const Footer = () => {
                     <Image src="/assets/img/icons/call.svg" alt="img" width={25} height={25}   />
                   </div>
                   <div>
-                    <p className="cs_white_color cs_fs_14 mb-0">Need Any Cleaning Help</p>
-                    <h3 className="mb-0 cs_fs_24 cs_semibold cs_white_color">+222 (789) 568 25</h3>
+                    <p className="cs_white_color cs_fs_14 mb-0">Need Any Service Help</p>
+                    <h3 className="mb-0 cs_fs_24 cs_semibold cs_white_color"><a href="tel:+7715864243">+91 77158 64243</a></h3>
                   </div>
                 </div>
               </div>
