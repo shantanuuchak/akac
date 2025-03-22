@@ -80,7 +80,7 @@ export default function HeaderStyle2({ variant }) {
                 </a>
               </div>
               <Link href="/contact" className="cs_btn cs_style_1 cs_color_1">
-                <span>Request a quote</span>              
+                <span>Get in touch</span>              
               </Link>
             </div>
           </div>
