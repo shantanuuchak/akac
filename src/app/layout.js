@@ -19,13 +19,13 @@ const dm_Sans = DM_Sans({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Arkdin - Air Conditioning Services NextJS Template',
-    template: '%s | Arkdin - Air Conditioning Services NextJS Template',
+    default: 'AKAC - Air Conditioning Services',
+    template: '%s | AKAC - Air Conditioning Services',
   },
-  description: 'Arkdin - Air Conditioning Services NextJS Template',
+  description: 'AKAC - Air Conditioning Services',
   openGraph: {
-    title: 'Arkdin - Air Conditioning Services NextJS Template',
-    description: 'Arkdin - Air Conditioning Services NextJS Template',
+    title: 'AKAC - Air Conditioning Services',
+    description: 'AKAC - Air Conditioning Services',
     images: ['/openGraphImage.jpg'],
   },
 };
