@@ -20,13 +20,13 @@ const page = () => {
                 Title="Turning up the chill factor in your home or office"
                 Content="AKAC, established by Arun Kumar, is a name synonymous with excellence in air conditioning, washing machine, and refrigerator services. Based in mumbai, we combine technical mastery with a customer-first approach to deliver reliable solutions."
                 FeatureList={[
-                    "Ventilation System Maintenance",
-                    "Indoor Air Quality Testing",
-                    "Cool Craft Custom Solutions"
+                    "Superior air conditioning solutions",
+                    "Optimized laundry system care",
+                    "Reliable refrigeration support"
                 ]}
-                Experience="25+"
+                Experience="14+"
                 BioImg="/assets/img/avatar_1.png"                
-                BioName="Roberto Ramon"                
+                BioName="Arun Kumar"                
                 BioContent="Call any time for services"                
             ></About2>
             <Services2></Services2>
