@@ -18,7 +18,7 @@ const page = () => {
                 Img="/assets/img/about_img_2.png"
                 TitleUp="About us"
                 Title="Turning up the chill factor in your home or office"
-                Content="This involves setting up a new air conditioning system in your home or office. It's crucial to ensure that the unit is properly sized for the space and installed correctly for optimal efficiency"
+                Content="AKAC, established by Arun Kumar, is a name synonymous with excellence in air conditioning, washing machine, and refrigerator services. Based in mumbai, we combine technical mastery with a customer-first approach to deliver reliable solutions."
                 FeatureList={[
                     "Ventilation System Maintenance",
                     "Indoor Air Quality Testing",
