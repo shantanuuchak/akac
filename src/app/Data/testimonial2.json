@@ -1,44 +1,23 @@
 [
   {
-    "img": "/assets/img/avatar_2.png",  
-    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
-    "title": "Robert Fox",
-    "subTitle": "Project Manager",
+    "img": "/assets/img/avatar_priya.jpg",
+    "desc": "We were having a real problem with our AC, especially with the summer heat. I called AKAC, and they were incredibly responsive. They came out the same day, quickly diagnosed the issue, and had it fixed in no time!  I highly recommend them.",
+    "title": "Priya Sharma",
+    "subTitle": "Borivali, Mumbai",
     "review": "Great Services"
   },
   {
-    "img": "/assets/img/avatar_3.png",  
-    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
-    "title": "Guy Hawkins",
-    "subTitle": "Product support",    
+    "img": "/assets/img/avatar_patel.png",
+    "desc": "AKAC installed a new AC unit in our office, and I couldn't be happier with the service. The team was professional, efficient, and very knowledgeable. They helped us choose the right unit for our space, and the installation was seamless. Great job!",
+    "title": "Rajesh Patel",
+    "subTitle": "Andheri, Mumbai",
     "review": "Great Services"
   },
   {
-    "img": "/assets/img/avatar_2.png",  
-    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
-    "title": "Jacob Jones",
-    "subTitle": "Customer success",  
+    "img": "/assets/img/avatar_sneha.jpg",
+    "desc": "I've used AKAC for several years now for my AC maintenance. They are always punctual and do a thorough job. Their technicians are friendly and take the time to explain everything. It gives me peace of mind knowing my AC is in good hands.",
+    "title": "Sneha Kapoor",
+    "subTitle": "Dadar, Mumbai",
     "review": "Great Services"
-  },
-  {
-    "img": "/assets/img/avatar_1.png",  
-    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
-    "title": "Robert Fox",
-    "subTitle": "Project Manager",
-    "review": "Great Services"
-  },
-  {
-    "img": "/assets/img/avatar_3.png",  
-    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
-    "title": "Guy Hawkins",
-    "subTitle": "Product support",    
-    "review": "Great Services"
-  },
-  {
-    "img": "/assets/img/avatar_2.png",  
-    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
-    "title": "Jacob Jones",
-    "subTitle": "Customer success",  
-    "review": "Great Services"
-  } 
+  }
 ]
