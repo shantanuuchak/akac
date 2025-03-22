@@ -32,7 +32,7 @@ const page = () => {
             <Services2></Services2>
             <Choose2></Choose2>
             <Cta></Cta>
-            <Team></Team>
+            {/* <Team></Team> */}
             <Contact2></Contact2>
             <Project2></Project2>
             <Testimonial3></Testimonial3>
