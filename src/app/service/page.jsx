@@ -10,7 +10,7 @@ const page = () => {
             <BreadCumb Title="Services"></BreadCumb>
             <Services2></Services2>
             <Cta></Cta>
-            <Pricing></Pricing>
+            {/* <Pricing></Pricing> */}
         </div>
     );
 };
