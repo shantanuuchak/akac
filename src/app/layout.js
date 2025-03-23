@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="author" content="Themeservices" />
+        <meta name="author" content="Shantanu Chakrawarty" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${outfit.variable} ${dm_Sans.variable}`}>
