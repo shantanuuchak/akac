@@ -34,7 +34,7 @@ const Contact = () => {
                                 <ContactCard
                                     img="/assets/img/icons/contact_icon_4.svg"
                                     Title="Working Time"
-                                    Content="Work Time: Sun - Fri <br>10AM - 6PM"
+                                    Content="Work Time: Fri - Sun <br> 8AM - 10PM"
                                 >
                                 </ContactCard>
                             </div>

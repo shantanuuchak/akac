@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "slick-carousel/slick/slick.css";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header";
+import WhatsAppChat from "./Components/Contact/WhatsAppChat";
 
 const outfit = Outfit({
   subsets: ['latin'],
@@ -41,6 +42,7 @@ export default function RootLayout({ children }) {
         <Header></Header>
         {children}
         <Footer></Footer>
+      <WhatsAppChat />
       </body>
     </html>
   );
