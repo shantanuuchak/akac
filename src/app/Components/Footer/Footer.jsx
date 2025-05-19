@@ -15,10 +15,10 @@ const Footer = () => {
   ];
 
   const WorkingHours = [
-    { day: 'Mon - Wed', time: '8:00 AM - 8:00 PM' },
-    { day: 'Thu - Fri', time: '9:00 AM - 7:00 PM' },
-    { day: 'Saturday', time: '8:00 AM - 10:00 PM' }, 
-    { day: 'Sunday', time: '8:00 AM - 10:00 PM' }
+    { day: "Mon - Wed", time: "8:00 AM - 8:00 PM" },
+    { day: "Thu - Fri", time: "9:00 AM - 7:00 PM" },
+    { day: "Saturday", time: "8:00 AM - 10:00 PM" },
+    { day: "Sunday", time: "8:00 AM - 10:00 PM" },
   ];
 
   const QuickLinks = [
@@ -50,10 +50,10 @@ const Footer = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="icon icon-tabler icons-tabler-outline icon-tabler-mail"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="icon icon-tabler icons-tabler-outline icon-tabler-mail"
                 >
                   <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                   <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" />
