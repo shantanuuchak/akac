@@ -120,9 +120,9 @@ const Contact = () => {
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7535.955720467668!2d72.86236584213977!3d19.19616932813281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7005bd1b00d%3A0x724e14cd488d5e28!2sNew%20SRA%20Building!5e0!3m2!1sen!2sin!4v1742682703218!5m2!1sen!2sin"
           width="600"
           height="450"
-          allowfullscreen=""
+          allowFullScreen=""
           loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
+          referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
     </div>
